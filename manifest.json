@@ -1,0 +1,2289 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/Bannerlord.MBOptionScreen/Bannerlord.MBOptionScreen/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/MCM-128-w-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/MCM-128-w-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/MCM-128.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/MCM-128.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/group_disabled.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/group_disabled.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/main.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/main.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/mcm-transparent.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/mcm-transparent.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/presets.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/presets.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/properties.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/properties.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "CNAME",
+      "output": {
+        "resource": {
+          "relative_path": "CNAME"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.BaseSettingPropertyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.BaseSettingPropertyAttribute.html",
+          "hash": "yOCz1Zmnzmjq4PRVC1Ww0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.SettingPropertyGroupAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.SettingPropertyGroupAttribute.html",
+          "hash": "VeA8yT5tI2Sc0mJuN9dmVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v1.SettingPropertyAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v1.SettingPropertyAttribute.html",
+          "hash": "id52NuUCuGtoiS7rSSnkUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v1.html",
+          "hash": "PGHbvj/YGj+t7qxB/gK+dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyBoolAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyBoolAttribute.html",
+          "hash": "NZNMOfFOoABHOFbAIKlfZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyDropdownAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyDropdownAttribute.html",
+          "hash": "OfmUmz7ZYhk/WLuVGezQLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyFloatingIntegerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyFloatingIntegerAttribute.html",
+          "hash": "T/FzuFBrOAGoHf5eVDXSIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyIntegerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyIntegerAttribute.html",
+          "hash": "5fTLYwLm6Y5rbp7jSC/hPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyTextAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.SettingPropertyTextAttribute.html",
+          "hash": "hOJl8l4g+X3SFM+aVkCAew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.v2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.v2.html",
+          "hash": "4rb8nQJqnimxZ9rZSxyhHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Attributes.html",
+          "hash": "cVZX22+TG+I+ncPwQR9CNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Common.SelectedIndexWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Common.SelectedIndexWrapper.html",
+          "hash": "iM0m/ztgs3mATL3R257fEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Common.html",
+          "hash": "tkoysutmWNkRIVYkAn/AOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.DropdownDefault-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.DropdownDefault-1.html",
+          "hash": "rDGEjNoF8GhXkEVnNxKIdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.DropdownMCM-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.DropdownMCM-1.html",
+          "hash": "mUJLd6zm2P0Yeb82eQJ9Lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorItemVM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorItemVM.html",
+          "hash": "JB3y3QfXKH54FvVlo2cNYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorVM-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorVM-1.html",
+          "hash": "ya9vteo6okEwxAf3S+1l8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorVM-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.MCMSelectorVM-2.html",
+          "hash": "bFJs/kBh+SAIRPLDMkpLTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Dropdown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Dropdown.html",
+          "hash": "OtTUasSi5HaZNqaLjOexKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.BaseSettingsBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.BaseSettingsBuilder.html",
+          "hash": "SYjRgAFvflteqljAjWhG0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsBuilder.html",
+          "hash": "YjvN9EVojL0IHYEFCxk9+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsBuilderFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsBuilderFactory.html",
+          "hash": "646oc3OXuxwyQQTWPlnVKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPresetBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPresetBuilder.html",
+          "hash": "IdBDvQbvqkAOiNvpp2Zo8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyBuilder-1.html",
+          "hash": "Q1SJ/0EhgxNNcSLoHigl4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyBuilder.html",
+          "hash": "L7Hvxm9cNA8U8/0WqyNMcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyGroupBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.ISettingsPropertyGroupBuilder.html",
+          "hash": "OVnKUxDn5jfD1Sdvoeepgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyBoolBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyBoolBuilder.html",
+          "hash": "gyscyWMpy3ypMOUPAzDjfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyDropdownBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyDropdownBuilder.html",
+          "hash": "8pRbkjy0A7flnSjHjwnljQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyFloatingIntegerBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyFloatingIntegerBuilder.html",
+          "hash": "fJpcuiPE+uvsgc3GshSxrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyGroupToggleBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyGroupToggleBuilder.html",
+          "hash": "YVhTC6hWSUBotHRhZAeK9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyIntegerBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyIntegerBuilder.html",
+          "hash": "/ooZocY9aZJ9Tq06EAKU+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyTextBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.ISettingsPropertyTextBuilder.html",
+          "hash": "ObKtLeRU40VHvlVdwE+y+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.Models.html",
+          "hash": "p2s9vG0fsnnekriTdl2qFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.FluentBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.FluentBuilder.html",
+          "hash": "+pTU+WBkjp6GxU5i2rMs3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.IWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.IWrapper.html",
+          "hash": "jWSCKHFCeCgz6hlFjpYFqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.IRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.IRef.html",
+          "hash": "bka41ZGrJWKwDhWT5xNlNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.PropertyRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.PropertyRef.html",
+          "hash": "1ZMr7ELVWLj0//uBI8r1zA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.ProxyRef-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.ProxyRef-1.html",
+          "hash": "7qC3Hppx9M7kJB4CCq0NWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.RefWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.RefWrapper.html",
+          "hash": "bLg2IplT7Fuj+VDyCTHMcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.StorageRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.StorageRef.html",
+          "hash": "4wvG+tfY/n3dQwROSsKITA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Ref.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Ref.html",
+          "hash": "UjcAMBk3aaLKL9c0yjvB3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.BaseSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.BaseSettings.html",
+          "hash": "FM0GsiQO+cHf9WHtpPmWMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.AttributeGlobalSettings-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.AttributeGlobalSettings-1.html",
+          "hash": "XbjVzOqyPv1My/xg2a2+Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.BaseFluentGlobalSettingsWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.BaseFluentGlobalSettingsWrapper.html",
+          "hash": "2aV991y6Areh2lMtK+CAJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.BaseGlobalSettingsWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.BaseGlobalSettingsWrapper.html",
+          "hash": "s2cUEQi6j1tRW9bbXo3oaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.EmptyGlobalSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.EmptyGlobalSettings.html",
+          "hash": "BMlsX1hM+ZY+zcUGq5K+Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.ExternalGlobalSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.ExternalGlobalSettings.html",
+          "hash": "ZBwo2chZBceiqfUVV0/psA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.FluentGlobalSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.FluentGlobalSettings.html",
+          "hash": "h3O2k4+UMvv9EeMmjdINfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.GlobalSettings-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.GlobalSettings-1.html",
+          "hash": "xvcVvEFPX0WyyghGzoMlew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.GlobalSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.GlobalSettings.html",
+          "hash": "qOTvwvMweA25+YTtSU3mjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.Global.html",
+          "hash": "YBvxViVrA/+R1iqJ4jRdxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.IFluentSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.IFluentSettings.html",
+          "hash": "jcAneV8vz5MG1zNgDLE1VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.AttributePerSaveSettings-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.AttributePerSaveSettings-1.html",
+          "hash": "GsJapn8eE+FOOK2rGnSsnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.BasePerSaveSettingsWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.BasePerSaveSettingsWrapper.html",
+          "hash": "lnlRPBlB0IYk0LS41REDcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.EmptyPerSaveSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.EmptyPerSaveSettings.html",
+          "hash": "FITQEuHSvm+bPjY5tb7kAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.ExternalPerSaveSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.ExternalPerSaveSettings.html",
+          "hash": "8ICVjTu28H6AAGllLOH3EQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.FluentPerSaveSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.FluentPerSaveSettings.html",
+          "hash": "lyqHdwcZZgTqVAtZXmwjlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.PerSaveSettings-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.PerSaveSettings-1.html",
+          "hash": "xf/Tr/6K+eUYrjP0bhrUNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.PerSaveSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.PerSaveSettings.html",
+          "hash": "vZ8CRNH8VLoIS7qsjTOMBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.PerSave.html",
+          "hash": "8xW+0xz+dhE7rUkneU1XsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Base.html",
+          "hash": "fTTJfAOZDG1o8XSgVK5uAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.BaseSettingsContainer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.BaseSettingsContainer-1.html",
+          "hash": "k+0zf7D/g9WB8s9tM+FUag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.Global.BaseGlobalSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.Global.BaseGlobalSettingsContainer.html",
+          "hash": "XedmUqAL9tHo151Rvg9QiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.Global.IFluentGlobalSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.Global.IFluentGlobalSettingsContainer.html",
+          "hash": "spt1q2l2SpeoAYoLvGaUrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.Global.IGlobalSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.Global.IGlobalSettingsContainer.html",
+          "hash": "f6Qb7tgWQl/mx6awH1Hodg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.Global.html",
+          "hash": "N4g5dXUZ8RYIbQ3ofbNQLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.ISettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.ISettingsContainer.html",
+          "hash": "QsvmYqcvtPKX98S0cWFUGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.IFluentPerSaveSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.IFluentPerSaveSettingsContainer.html",
+          "hash": "FNj5EmL0jyNKLG0TMSHaOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.IPerSaveSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.IPerSaveSettingsContainer.html",
+          "hash": "4j+HXUuEEfMRIWvSkbJY/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.PerSave.html",
+          "hash": "ktqxPb9aeLd6HdYpdc7o8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Containers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Containers.html",
+          "hash": "5fFeMOgBYa470Iin1IMk5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionBase.html",
+          "hash": "FkiPeC8ylmY2o6nE713o8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionBool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionBool.html",
+          "hash": "GXLWGkrgMhwrXQJK/GLo8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionDropdown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionDropdown.html",
+          "hash": "zOX9rP7umK5tY0CbsRQw4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionGroupToggle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionGroupToggle.html",
+          "hash": "7nDKrS85aAj60qev3c1r4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionText.html",
+          "hash": "YIZimtTpjn3oZKkcj1ctMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithActionFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithActionFormat.html",
+          "hash": "sXyH3KdCSezb1aoMuiT97A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithCustomFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithCustomFormatter.html",
+          "hash": "+3mjG7E5317y0yguJop0Yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithEditableMinMax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithEditableMinMax.html",
+          "hash": "nm2z7oD9mmRQKZd60hMdtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithFormat.html",
+          "hash": "Y0nlg9mkifQXacw4QYePCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithId.html",
+          "hash": "zgHlzVj+deQuH5MUJ23SkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithMinMax.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyDefinitionWithMinMax.html",
+          "hash": "gdmhe675rpBZCpie46Y0Bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyGroupDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.IPropertyGroupDefinition.html",
+          "hash": "tlMWvsbiG0yyc1SyquvXYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.AttributePropertyDefinitionGroupToggleWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.AttributePropertyDefinitionGroupToggleWrapper.html",
+          "hash": "1VK8EU91h2Og4lyNhxJLUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.BasePropertyDefinitionWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.BasePropertyDefinitionWrapper.html",
+          "hash": "03xGprkC1QUWtN3pGkmLbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionBoolWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionBoolWrapper.html",
+          "hash": "V3/VCi+pXiTS0TK9KCEEVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionDropdownWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionDropdownWrapper.html",
+          "hash": "zmPOqAWGny6HDvfOC3oGGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionGroupToggleWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionGroupToggleWrapper.html",
+          "hash": "B8UwmpM6UHb976MHWh8CAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionTextWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionTextWrapper.html",
+          "hash": "7zRLVzzdSzOs1gD7uKv2rQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithActionFormatWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithActionFormatWrapper.html",
+          "hash": "woBFtFI7HDlq5Wk1JM3m7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithCustomFormatterWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithCustomFormatterWrapper.html",
+          "hash": "T2/P9FroDkZhx9fX67Vvwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithEditableMinMaxWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithEditableMinMaxWrapper.html",
+          "hash": "KJxunkM+4yYwc8IOQYkT0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithFormatWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithFormatWrapper.html",
+          "hash": "OyijYWwoSRwbpFg0gORPww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithIdWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithIdWrapper.html",
+          "hash": "4ozzyNswbf9n5HgGcO5lmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithMinMaxWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyDefinitionWithMinMaxWrapper.html",
+          "hash": "cFuXt7E5Y0mJbSoM123tZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyGroupDefinitionWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.PropertyGroupDefinitionWrapper.html",
+          "hash": "NxyttczvNDt/pjI6KcT+9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Wrapper.html",
+          "hash": "8b6/IPB3kZ7ZwI7ipwzNqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyBaseXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyBaseXmlModel.html",
+          "hash": "1EydunWkZk1TPYeO5BJWOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyBoolXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyBoolXmlModel.html",
+          "hash": "+aSur96PQ5bT3clE6jlOQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyDropdownXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyDropdownXmlModel.html",
+          "hash": "IorZTS1tk7VAMSAhqIj/1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyFloatingIntegerXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyFloatingIntegerXmlModel.html",
+          "hash": "3YTJoysa8swGUMBjmRjFLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyGroupXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyGroupXmlModel.html",
+          "hash": "VWrKwcXStuw9Y2z0RP9ayQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyIntegerXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyIntegerXmlModel.html",
+          "hash": "4QV+9a815NhNeyNOJptCMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyTextXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.PropertyTextXmlModel.html",
+          "hash": "NEO7CCOzXpcWE5ojvinV1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.SettingsXmlModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.SettingsXmlModel.html",
+          "hash": "PWb2zy13KvH0+XV0lKjZQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.Xml.html",
+          "hash": "FsThQeN+sIP/+zp/A0SV8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Definitions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Definitions.html",
+          "hash": "fCL6ct/1myWYvDMuV5EVOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Formats.ISettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Formats.ISettingsFormat.html",
+          "hash": "wbpqpyKYIoQKE5rTzi14BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Formats.MemorySettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Formats.MemorySettingsFormat.html",
+          "hash": "D8Oz3srpZrqQk+ykLFsz5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Formats.NoneSettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Formats.NoneSettingsFormat.html",
+          "hash": "2gnMgHs4UtpvIzG8VVoAOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Formats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Formats.html",
+          "hash": "A2Ek6x1TWKI7ZJ3TalHMPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.ISettingsPropertyDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.ISettingsPropertyDefinition.html",
+          "hash": "SH/0KETcYWN0hrf+fyfJCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.SettingsDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.SettingsDefinition.html",
+          "hash": "zh6i8eDWR+ltRdV5uMzW7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.SettingsPropertyDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.SettingsPropertyDefinition.html",
+          "hash": "AcCPdVbd+Eb3HJzlkjKKFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.SettingsPropertyGroupDefinition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.SettingsPropertyGroupDefinition.html",
+          "hash": "O55ijucjrdv2VlLL6/9YXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsDefinitionWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsDefinitionWrapper.html",
+          "hash": "uQXG1yA+i09QfiRajiizIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsPropertyDefinitionWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsPropertyDefinitionWrapper.html",
+          "hash": "KsckNIWE3zCHKQZ/oKWc1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsPropertyGroupDefinitionWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.SettingsPropertyGroupDefinitionWrapper.html",
+          "hash": "XzFE6YdyRCRuC4+QDyyL1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.Wrapper.html",
+          "hash": "OJCiXimMhjsAULEv/Arp0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Models.html",
+          "hash": "GjW/L1pEc9K6mqFG6gRMDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Properties.IAttributeSettingsPropertyDiscoverer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Properties.IAttributeSettingsPropertyDiscoverer.html",
+          "hash": "JuNgtzgFDViH2X26/cblrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Properties.ISettingsPropertyDiscoverer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Properties.ISettingsPropertyDiscoverer.html",
+          "hash": "9fJbhmpEBzxvC0byoD7kwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Properties.NoneSettingsPropertyDiscoverer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Properties.NoneSettingsPropertyDiscoverer.html",
+          "hash": "t3f0sUl6QKB4abjiS8eXvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Properties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Properties.html",
+          "hash": "svKxtXRUfLBzUhasNT+15Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Providers.BaseSettingsProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Providers.BaseSettingsProvider.html",
+          "hash": "nT/AVswrT+T54Do91Ea+0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.Providers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.Providers.html",
+          "hash": "mLt8PfyHQyVARIGFmNxfiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.SettingType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.SettingType.html",
+          "hash": "xSQw1hN6Pm0cB+ZFXxLTaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.Settings.html",
+          "hash": "K4+2q5jquDTF8mBYnNXSsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Abstractions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Abstractions.html",
+          "hash": "SZI2WJukpsIL2LNUcXDE5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Exceptions.MCMException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Exceptions.MCMException.html",
+          "hash": "UIfau5r5r4dtkZDnC2CvlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Exceptions.html",
+          "hash": "kIPIbccA2C5HZISm8nHTbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Extensions.BaseSettingsExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Extensions.BaseSettingsExtensions.html",
+          "hash": "4+m4kI/l3w3e5PazqcXVqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Extensions.ServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Extensions.ServiceCollectionExtensions.html",
+          "hash": "HA5AYi+v5xKPlwWhF/72mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Extensions.html",
+          "hash": "0LmwIPwA2Rb7J9TJrB5dnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.MCMImplementationSubModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.MCMImplementationSubModule.html",
+          "hash": "ykFVmVrBQuCpsVendSRDJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.Global.IMCMFluentGlobalSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.Global.IMCMFluentGlobalSettingsContainer.html",
+          "hash": "R1woyMMvqtLxs08tP8hY2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.Global.IMCMGlobalSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.Global.IMCMGlobalSettingsContainer.html",
+          "hash": "ThfNaCU0b56s5KXQBhDSJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.Global.html",
+          "hash": "hhND/XEx1Df9dMx79oD+Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.IMCMFluentPerSaveSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.IMCMFluentPerSaveSettingsContainer.html",
+          "hash": "CVQkzR3eQWwmcB4XNExVUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.IMCMPerSaveSettingsContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.IMCMPerSaveSettingsContainer.html",
+          "hash": "2Y+c3JOHN/18UJ2HW/bk0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Containers.PerSave.html",
+          "hash": "10ZbfpDsqY5cXnmDtNJFyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Json.IJsonSettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Json.IJsonSettingsFormat.html",
+          "hash": "xPOC4peNK4+hB4h2+AfUsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Json.html",
+          "hash": "xmRv1GjLPhm8zKrZ4g5FXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Json2.IJson2SettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Json2.IJson2SettingsFormat.html",
+          "hash": "1hH/i3pnRArwv2vi/YZVKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Json2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Json2.html",
+          "hash": "eD0crcomvtfhmb4PuBj7dQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Xml.IXmlSettingsFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Xml.IXmlSettingsFormat.html",
+          "hash": "CJg+3AZD7Pf6mkKd/Ltsrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.Settings.Formats.Xml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.Settings.Formats.Xml.html",
+          "hash": "QVWvUatIJNfEBWGR1WK6QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Implementation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Implementation.html",
+          "hash": "J/sMYI8KL0tpCRgMzo2MVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.MCMSubModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.MCMSubModule.html",
+          "hash": "yuHuAyPyxcxcpCzwU5aLGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Utils.SettingsUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Utils.SettingsUtils.html",
+          "hash": "8Lx/2xbkTt8QwtPBqhjfoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.Utils.html",
+          "hash": "KyyaavbSPp9MAxKj2lh87g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/MCM.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MCM.html",
+          "hash": "P8wcUcXcVDXlDK/AiqVvWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "eQOMePAwbYhL/LdsA45Eug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/GitHub Actions/environment-variables-used.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/GitHub Actions/environment-variables-used.html",
+          "hash": "S9v+D8cJtz92OJpkzx28OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/GitHub Actions/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/GitHub Actions/index.html",
+          "hash": "gLb65FAm89qj9BHb+5IJeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/Installation/editing-submodule.xml.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/Installation/editing-submodule.xml.html",
+          "hash": "VvChFQzU20k31mjVmkTArw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/Installation/installation.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/Installation/installation.html",
+          "hash": "hg5Es77aExPnZQxeYB/y0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/Installation/settings-definition-example.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/Installation/settings-definition-example.html",
+          "hash": "AOV/QuWT3nfYC/BWgPdcbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/attributes.html",
+          "hash": "JCH07KWT9wR0m/xRFyT7YA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/comparing-to-modlib.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/comparing-to-modlib.html",
+          "hash": "+alCyPdHdEcdNutqj4AB1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/migrating-to-v2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/migrating-to-v2.html",
+          "hash": "f8/JHSNAMwFFwFsm+pRRoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv2/project-example.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv2/project-example.html",
+          "hash": "rxrWKHZuUuXZKUaI/07IYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv3/mcmv3-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv3/mcmv3-attributes.html",
+          "hash": "iHvsNdUrOIXw6etgp+S87A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv3/mcmv3-fluent-builder.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv3/mcmv3-fluent-builder.html",
+          "hash": "bCwbxDEfBxxSAmEFy7XjuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv3/mcmv3-soft-dependency.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv3/mcmv3-soft-dependency.html",
+          "hash": "3K8gJQOVY0lX4NZOiQYnkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv3/mcmv3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv3/mcmv3.html",
+          "hash": "6h5wfwsnrxQs9529OCsxyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv4/mcmv4-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv4/mcmv4-attributes.html",
+          "hash": "46Zaf6WdD9J67JC5YR7pOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv4/mcmv4-fluent-builder.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv4/mcmv4-fluent-builder.html",
+          "hash": "oglRUa46+KCeYIAnpT5kWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv4/mcmv4-migrating-from-mcmv3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv4/mcmv4-migrating-from-mcmv3.html",
+          "hash": "feIOSofxdtdqCz6c59Iqfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv4/mcmv4-soft-dependency.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv4/mcmv4-soft-dependency.html",
+          "hash": "Tu+lulMgP/UvmmH70vToQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/MCMv4/mcmv4.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/MCMv4/mcmv4.html",
+          "hash": "ZH+gmwG4Qi33nI3oc8EXfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/contributors.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/contributors.html",
+          "hash": "6CwFx/12q12G2QZM2yNJzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html",
+          "hash": "ruU5TCOisr+cji8rujgWBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "anod7XW6HxQh92F7w5ikyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "5FCmo469cZUk0KoRGj0Rgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "langwordMapping.yml",
+      "output": {
+        "resource": {
+          "relative_path": "langwordMapping.yml"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "tqVO4bYoDuI4tUPsAVNKSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 21,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 152,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
